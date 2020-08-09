@@ -23,6 +23,7 @@ html {
 }
 
 body {
+  width: 600px;
   margin: 0 auto;
   background-color: #C4820F;
   padding: 0 20px 20px 20px;
